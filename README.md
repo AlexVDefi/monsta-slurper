@@ -3,6 +3,16 @@ Buy limit order script for https://app.cake.monster/ $MONSTA token
 
 !WINDOWS ONLY FOR NOW!
 
+-----------------------------------
+
+IF YOU WANT TO USE THE .EXE TO RUN, YOUR ANTIVIRUS WILL LIKELY FLAG IT!
+
+READ HERE FOR EXPLANATION WHY:
+
+https://nitratine.net/blog/post/issues-when-using-auto-py-to-exe/?utm_source=auto_py_to_exe&utm_medium=readme_link&utm_campaign=auto_py_to_exe_help#my-antivirus-detected-the-exe-as-a-virus
+
+-----------------------------------
+
 Instructions:
 1. Download "Monsta Slurper Program.rar"
 2. Unzip anywhere on your computer
@@ -16,7 +26,7 @@ Instructions:
 
 You can verify this by opening slurper.py in slurper_folder, go to line 21 and right click self.config and search for usages.
 
-
+-----------------------------------
 
 GUI Explained:
 
@@ -31,8 +41,7 @@ GUI Explained:
 7. Click "Stop" to stop the program, if you want to change values it can not be running.
 8. Click "Exit" to close the program.
 
-
-
+-----------------------------------
 
 Additional notes:
 - The slippage is hard coded to 6% to account for tax.
