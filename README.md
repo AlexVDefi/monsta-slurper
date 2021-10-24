@@ -23,4 +23,5 @@ GUI Explained:
 6. Click "Run" to start the program, while running it will wait for the dip and buy.
 7. Click "Stop" to stop the program, if you want to change values it can not be running.
 8. Click "Exit" to close the program.
+
 ![monstagui](https://user-images.githubusercontent.com/90290113/138597137-983177e3-6b74-47ca-9675-85cbdd72b63b.png)
