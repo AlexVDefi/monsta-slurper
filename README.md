@@ -12,9 +12,16 @@ Instructions:
 
 *NOTE: No one will be able to see or access your private key in the config.json
 
+![config usage](https://user-images.githubusercontent.com/90290113/138597240-5058bf31-a5b4-4096-99cd-4fc10c7662ec.JPG)
+
+You can verify this by opening slurper.py in slurper_folder, go to line 21 and right click self.config and search for usages.
+
 
 
 GUI Explained:
+
+![monstagui](https://user-images.githubusercontent.com/90290113/138597137-983177e3-6b74-47ca-9675-85cbdd72b63b.png)
+
 1. Displays current price of $MONSTA, automatically refreshes two times per second.
 2. Enter the target price to buy $MONSTA at. (If you put a price higher than current price it will buy immediately)
 3. How much BNB to use for the purchase.
@@ -24,7 +31,7 @@ GUI Explained:
 7. Click "Stop" to stop the program, if you want to change values it can not be running.
 8. Click "Exit" to close the program.
 
-![monstagui](https://user-images.githubusercontent.com/90290113/138597137-983177e3-6b74-47ca-9675-85cbdd72b63b.png)
+
 
 
 Additional notes:
