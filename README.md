@@ -1,7 +1,10 @@
 # monsta-slurper
-Buy limit order script for https://app.cake.monster/ $MONSTA token
+
+!!!!!NOT OFFICIALLY ENDORSED BY CAKE MONSTER TEAM, THIS IS A COMMUNITY DRIVEN PROJECT FOR NOW!!!!!
 
 USE AT YOUR OWN RISK
+
+Buy limit order script for https://app.cake.monster/ $MONSTA token
 
 WINDOWS ONLY FOR NOW
 
