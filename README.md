@@ -1,7 +1,9 @@
 # monsta-slurper
 Buy limit order script for https://app.cake.monster/ $MONSTA token
 
-!WINDOWS ONLY FOR NOW!
+USE AT YOUR OWN RISK
+
+WINDOWS ONLY FOR NOW
 
 -----------------------------------
 
