@@ -25,3 +25,8 @@ GUI Explained:
 8. Click "Exit" to close the program.
 
 ![monstagui](https://user-images.githubusercontent.com/90290113/138597137-983177e3-6b74-47ca-9675-85cbdd72b63b.png)
+
+
+Additional notes:
+- The slippage is hard coded to 6% to account for tax.
+- You need to click "Stop" and then "Run" again after every purchase
